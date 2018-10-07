@@ -4,3 +4,6 @@ cd ..
 #to get list of files and folders in current directory
 ls
 ls -lah
+
+# print file
+cat <file name>
