@@ -1,3 +1,6 @@
-git log 
-
+# to go back in previous directory
 cd ..
+
+#to get list of files and folders in current directory
+ls
+ls -lah
